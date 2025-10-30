@@ -1,0 +1,16 @@
+# Pasta: Casos Clínicos
+
+Este diretório armazena **casos clínicos e estudos aplicados** desenvolvidos dentro do projeto *O Triângulo de Ouro*.
+
+## Organização sugerida:
+- Cada caso deve ter seu próprio arquivo `.md` (Markdown) ou pasta.
+- Estrutura recomendada:
+  - **Título do caso**
+  - **Resumo clínico**
+  - **Diagnóstico**
+  - **Conduta terapêutica**
+  - **Evidências e meta-análises relacionadas**
+  - **Discussão e conclusões**
+
+## Objetivo:
+Permitir o registro e acompanhamento de raciocínios clínicos baseados em evidências, integrando fisiologia, estética e função no contexto pós-operatório de cirurgia ortognática.
