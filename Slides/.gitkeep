@@ -1,0 +1,7 @@
+# Pasta: Slides e Apresentações
+
+Este diretório armazena os arquivos de apresentação (.pptx, .pdf ou .twine) utilizados nas aulas do projeto **"O Triângulo de Ouro: Função, Estética e Biologia no Pós-Operatório em Cirurgia Ortognática"**.
+
+Cada subpasta pode representar um módulo, tema ou aula (exemplo: `slide1_estetica.md`, `slide2_fisiologia.md`).
+
+**Objetivo:** Facilitar o acesso rápido ao material didático e garantir a integração com o conteúdo interativo desenvolvido no Twine.
