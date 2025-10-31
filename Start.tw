@@ -1,0 +1,11 @@
+:: Start
+<<set $casos = []>>
+
+# O Triângulo de Ouro
+## Função, Estética e Biologia no Pós-Operatório Ortognática
+
+Bem-vindo ao painel interativo de casos clínicos. Este projeto utiliza o Twine no formato SugarCube 2 para simular a análise e acompanhamento de pacientes submetidos à cirurgia ortognática, focando nos três pilares: **Função**, **Estética** e **Biologia**.
+
+A navegação será feita através de módulos de casos.
+
+[[Acessar Painel Clínico|Painel Clínico]]

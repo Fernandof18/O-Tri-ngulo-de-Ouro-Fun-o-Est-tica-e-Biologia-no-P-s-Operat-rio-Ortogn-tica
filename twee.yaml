@@ -1,0 +1,16 @@
+story:
+  title: "O Triângulo de Ouro: Função, Estética e Biologia no Pós-Operatório Ortognática"
+  ifid: "447225c2-b36c-4860-911e-089772c57500" # Placeholder IFID, will be replaced by Tweego
+output:
+  format: "sugarcube-2"
+  version: "2.36.1"
+  start: "Start"
+  head: "src/head.html"
+  body: "src/body.html"
+  destination: "docs/index.html"
+paths:
+  - "src"
+  - "assets"
+  - "styles"
+  - "scripts"
+  - "docs"

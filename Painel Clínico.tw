@@ -1,0 +1,20 @@
+:: Painel Clínico
+# Painel Clínico - Seleção de Casos
+
+Selecione um caso para iniciar a análise:
+
+<<listbox "$caso_selecionado" "Nenhum">>
+    <<option "Caso 1 - Paciente A" "caso_1">>
+    <<option "Caso 2 - Paciente B" "caso_2">>
+    <<option "Caso 3 - Paciente C" "caso_3">>
+<</listbox>>
+
+<<button "Analisar Caso">>
+    <<if $caso_selecionado is "Nenhum">>
+        <<alert "Por favor, selecione um caso para continuar.">>
+    <<else>>
+        <<goto $caso_selecionado>>
+    <</if>>
+<</button>>
+
+[[Voltar ao Início|Start]]
